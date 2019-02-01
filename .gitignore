@@ -1,0 +1,8 @@
+# Ignore configuration files that may contain sensitive information.
+.idea
+.vscode
+.htaccess
+robots*.txt
+
+#Add drupal core site directory core instalation
+sites
