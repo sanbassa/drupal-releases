@@ -6,3 +6,4 @@ robots*.txt
 
 #Add drupal core site directory core instalation
 sites
+robots.txt
